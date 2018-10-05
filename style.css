@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+
+}
+
+ul li{
+    float:left;
+    background-color: black;
+    color:white;
+    padding: 8px 16px;
+    font-size:15px;
+}
+
+
